@@ -81,3 +81,4 @@ RESOURCES += \
     MoM_Logo.qrc
 
 QT += sql
+
