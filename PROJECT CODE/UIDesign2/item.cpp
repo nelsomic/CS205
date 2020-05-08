@@ -35,6 +35,10 @@ string Item::getName()
     return name;
 }
 
+string Item::getFilename(){
+    return filename;
+}
+
 string Item::getDescription()
 {
     return description;

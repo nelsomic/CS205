@@ -1,3 +1,17 @@
+
+#TEMPLATE = subdirs
+
+#LIBS += -pthread
+
+#SOURCES += ../gtest/googletest/src/gtest-all.cc
+
+#INCLUDEPATH +=  ../gtest                                   \
+#                ../gtest/googletest                        \
+#                ../gtest/googletest/include/gtest          \
+
+
+
+
 QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
